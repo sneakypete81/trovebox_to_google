@@ -8,11 +8,13 @@
 This script transfers all of your photos from a Trovebox host
 to a Google PicasaWeb/Google+ account.
 
- * Matching albums are created with private permissions (not shared by default)
+ * Albums are transferred with private permissions (not shared by default)
  * Photos are transferred preserving album, tags, title and description
  * Photos without an album are transferred into a "Loose Photos" album
  * Any photos previously transferred by this script are skipped
  * Failed download/uploads are retried multiple times
+
+The photos are transferred by downloading locally then re-uploading to Google, so the process can take a while for large collections.
 
 <a name="dependencies"></a>
 ### Getting dependencies
