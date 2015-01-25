@@ -1,5 +1,5 @@
-# trovebox_to_google
-Transfer your Trovebox photos to PicasaWeb/Google+
+# Trovebox to Google
+##### Transfer your Trovebox photos to PicasaWeb/Google+
 ----------------------------------------
 
 <a name="overview"></a>
